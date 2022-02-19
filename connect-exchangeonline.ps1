@@ -1,0 +1,2 @@
+connect-exchangeonline
+Get-Process

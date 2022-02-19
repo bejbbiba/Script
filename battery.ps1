@@ -1,3 +1,6 @@
+# comments test
+
+
 powercfg /batteryreport /xml /output batteryreport.xml
 $battery = [xml](Get-Content batteryreport.xml)
 $health = [pscustomobject]@{
